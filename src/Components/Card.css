@@ -1,0 +1,7 @@
+.card {
+  width: 250px;
+  height: fit-content;
+  min-height: 273px;
+  padding: 2rem;
+  border: 1px solid black;
+}

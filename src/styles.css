@@ -1,0 +1,8 @@
+.App {
+  min-height: 100vh;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
